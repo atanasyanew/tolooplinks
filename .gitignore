@@ -1,0 +1,34 @@
+# Hugo default output directory
+/public
+
+# Hugo stuff
+hugo.exe
+hugo_0.62.2_Windows-64bit.zip
+
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+
+.vscode
+public
+
+# Notes
+# TODO.md
+
+Thumbs.db
+.DS_Store
+.dist
+.tmp
+.sass-cache
+npm-debug.log
+node_modules
+builds
+package-lock.json
+Public
