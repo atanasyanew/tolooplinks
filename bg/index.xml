@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ToLoopLinks | Software &amp; hardware solutions</title>
-    <link>http://examplesite.com/bg/</link>
+    <link>http://tolooplinks.com/bg/</link>
     <description>Recent content on ToLoopLinks | Software &amp; hardware solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bg-bg</language>
     <copyright>Copyright 2020 © ToLoopLinks | All right reserved.</copyright>
     
-	<atom:link href="http://examplesite.com/bg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tolooplinks.com/bg/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -3,114 +3,114 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://examplesite.com/bg/categories/</loc>
+    <loc>http://tolooplinks.com/bg/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/categories/"
+                href="http://tolooplinks.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/categories/"
+                href="http://tolooplinks.com/bg/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/bg/contact/</loc>
+    <loc>http://tolooplinks.com/bg/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/contact/"
+                href="http://tolooplinks.com/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/contact/"
+                href="http://tolooplinks.com/bg/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/bg/products/</loc>
+    <loc>http://tolooplinks.com/bg/products/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/products/"
+                href="http://tolooplinks.com/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/products/"
+                href="http://tolooplinks.com/bg/products/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/bg/blog/</loc>
+    <loc>http://tolooplinks.com/bg/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/blog/"
+                href="http://tolooplinks.com/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/blog/"
+                href="http://tolooplinks.com/bg/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/bg/tags/</loc>
+    <loc>http://tolooplinks.com/bg/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/tags/"
+                href="http://tolooplinks.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/tags/"
+                href="http://tolooplinks.com/bg/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/bg/privacy-policy/</loc>
+    <loc>http://tolooplinks.com/bg/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/privacy-policy/"
+                href="http://tolooplinks.com/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/privacy-policy/"
+                href="http://tolooplinks.com/bg/privacy-policy/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/bg/terms-conditions/</loc>
+    <loc>http://tolooplinks.com/bg/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/terms-conditions/"
+                href="http://tolooplinks.com/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/terms-conditions/"
+                href="http://tolooplinks.com/bg/terms-conditions/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/bg/</loc>
+    <loc>http://tolooplinks.com/bg/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/"
+                href="http://tolooplinks.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/"
+                href="http://tolooplinks.com/bg/"
                 />
   </url>
   

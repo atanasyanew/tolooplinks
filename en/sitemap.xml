@@ -3,136 +3,136 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://examplesite.com/blog/2020-district-heating-monitoring/</loc>
+    <loc>http://tolooplinks.com/blog/2020-district-heating-monitoring/</loc>
     <lastmod>2020-10-24T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.com/blog/</loc>
-    <lastmod>2020-10-24T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="http://examplesite.com/bg/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://examplesite.com/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://examplesite.com/</loc>
+    <loc>http://tolooplinks.com/blog/</loc>
     <lastmod>2020-10-24T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/"
+                href="http://tolooplinks.com/bg/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/"
+                href="http://tolooplinks.com/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/blog/2020-bms-automation/</loc>
+    <loc>http://tolooplinks.com/</loc>
+    <lastmod>2020-10-24T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://tolooplinks.com/bg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://tolooplinks.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://tolooplinks.com/blog/2020-bms-automation/</loc>
     <lastmod>2020-10-23T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.com/blog/2020-fish-farm-automation/</loc>
+    <loc>http://tolooplinks.com/blog/2020-fish-farm-automation/</loc>
     <lastmod>2020-10-22T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.com/blog/2020-healthcare-iot/</loc>
+    <loc>http://tolooplinks.com/blog/2020-healthcare-iot/</loc>
     <lastmod>2020-10-21T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://examplesite.com/categories/</loc>
+    <loc>http://tolooplinks.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/categories/"
+                href="http://tolooplinks.com/bg/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/categories/"
+                href="http://tolooplinks.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/contact/</loc>
+    <loc>http://tolooplinks.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/contact/"
+                href="http://tolooplinks.com/bg/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/contact/"
+                href="http://tolooplinks.com/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/products/</loc>
+    <loc>http://tolooplinks.com/products/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/products/"
+                href="http://tolooplinks.com/bg/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/products/"
+                href="http://tolooplinks.com/products/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/tags/</loc>
+    <loc>http://tolooplinks.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/tags/"
+                href="http://tolooplinks.com/bg/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/tags/"
+                href="http://tolooplinks.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/privacy-policy/</loc>
+    <loc>http://tolooplinks.com/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/privacy-policy/"
+                href="http://tolooplinks.com/bg/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/privacy-policy/"
+                href="http://tolooplinks.com/privacy-policy/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.com/terms-conditions/</loc>
+    <loc>http://tolooplinks.com/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://examplesite.com/bg/terms-conditions/"
+                href="http://tolooplinks.com/bg/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.com/terms-conditions/"
+                href="http://tolooplinks.com/terms-conditions/"
                 />
   </url>
   
