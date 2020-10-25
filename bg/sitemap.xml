@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://examplesite.com/bg/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/bg/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/bg/products/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/products/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/bg/blog/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/bg/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/bg/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/privacy-policy/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/bg/terms-conditions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/terms-conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/terms-conditions/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/bg/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://examplesite.com/blog/2020-district-heating-monitoring/</loc>
+    <lastmod>2020-10-24T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/blog/</loc>
+    <lastmod>2020-10-24T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/</loc>
+    <lastmod>2020-10-24T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/blog/2020-bms-automation/</loc>
+    <lastmod>2020-10-23T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/blog/2020-fish-farm-automation/</loc>
+    <lastmod>2020-10-22T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/blog/2020-healthcare-iot/</loc>
+    <lastmod>2020-10-21T11:22:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/products/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/products/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/privacy-policy/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/terms-conditions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="http://examplesite.com/bg/terms-conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/terms-conditions/"
+                />
+  </url>
+  
+</urlset>
