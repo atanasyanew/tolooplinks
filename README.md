@@ -3,6 +3,7 @@
 Multipurpose document for creating the brand
 
 - [About](#about)
+  - [Developer notes](#developer-notes)
   - [Mission](#mission)
     - [Why - The purpose](#why---the-purpose)
     - [How - The process](#how---the-process)
@@ -18,6 +19,32 @@ Multipurpose document for creating the brand
     - [Template](#template)
   - [Resources](#resources)
   - [TODO](#todo)
+
+## Developer notes
+
+Repository home for [tolooplinks.com](tolooplinks.com)
+
+Dev Repository hosted in Azure DevOps.
+
+Web site hosted in GitHub.
+
+How to deploy?
+
+```bash
+bash deploy.sh
+```
+
+Repositories
+
+```bash
+git remote -v
+
+github  git@github.com:atanasyanew/tolooplinks.git (fetch)
+github  git@github.com:atanasyanew/tolooplinks.git (push)
+
+origin  git@ssh.dev.azure.com:v3/ayanew/tolooplinks/web (fetch)
+origin  git@ssh.dev.azure.com:v3/ayanew/tolooplinks/web (push)
+```
 
 ## Mission
 
