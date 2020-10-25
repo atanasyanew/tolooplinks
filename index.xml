@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ToLoopLinks | Software &amp; hardware solutions</title>
-    <link>http://tolooplinks.com/</link>
+    <link>https://tolooplinks.com/</link>
     <description>Recent content on ToLoopLinks | Software &amp; hardware solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2020 © ToLoopLinks | All right reserved.</copyright>
     <lastBuildDate>Sat, 24 Oct 2020 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="http://tolooplinks.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tolooplinks.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>District heating plant monitoring</title>
-      <link>http://tolooplinks.com/blog/2020-district-heating-monitoring/</link>
+      <link>https://tolooplinks.com/blog/2020-district-heating-monitoring/</link>
       <pubDate>Sat, 24 Oct 2020 11:22:16 +0600</pubDate>
       
-      <guid>http://tolooplinks.com/blog/2020-district-heating-monitoring/</guid>
+      <guid>https://tolooplinks.com/blog/2020-district-heating-monitoring/</guid>
       <description>District heating plants provide their service across whole cities, they can not afford robustness compromises, monitoring help getting right decisions on time</description>
     </item>
     
     <item>
       <title>Why battery monitoring systems are so important</title>
-      <link>http://tolooplinks.com/blog/2020-bms-automation/</link>
+      <link>https://tolooplinks.com/blog/2020-bms-automation/</link>
       <pubDate>Fri, 23 Oct 2020 11:22:16 +0600</pubDate>
       
-      <guid>http://tolooplinks.com/blog/2020-bms-automation/</guid>
+      <guid>https://tolooplinks.com/blog/2020-bms-automation/</guid>
       <description>The batteries are integral part for many industries, providing more reliability and robustness, their proper exploitation is a significant importance</description>
     </item>
     
     <item>
       <title>How we manage the important, for sustainable Aquaculture ecosystem</title>
-      <link>http://tolooplinks.com/blog/2020-fish-farm-automation/</link>
+      <link>https://tolooplinks.com/blog/2020-fish-farm-automation/</link>
       <pubDate>Thu, 22 Oct 2020 11:22:16 +0600</pubDate>
       
-      <guid>http://tolooplinks.com/blog/2020-fish-farm-automation/</guid>
+      <guid>https://tolooplinks.com/blog/2020-fish-farm-automation/</guid>
       <description>The fish farm consist of about 10 large water tanks where the fish grows, with additional few smaller for breeding the new generation. Many and important metrics are required in order to have sustainable ecosystem, such as pH, temperatures, oxygen, water levels, etc..</description>
     </item>
     
     <item>
       <title>Next generation healthcare IoT devices</title>
-      <link>http://tolooplinks.com/blog/2020-healthcare-iot/</link>
+      <link>https://tolooplinks.com/blog/2020-healthcare-iot/</link>
       <pubDate>Wed, 21 Oct 2020 11:22:16 +0600</pubDate>
       
-      <guid>http://tolooplinks.com/blog/2020-healthcare-iot/</guid>
+      <guid>https://tolooplinks.com/blog/2020-healthcare-iot/</guid>
       <description>A gateway device between cloud and medical apparatuses, connecting doctors and patient measurements in real time</description>
     </item>
     

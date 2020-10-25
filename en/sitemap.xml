@@ -3,136 +3,136 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://tolooplinks.com/blog/2020-district-heating-monitoring/</loc>
+    <loc>https://tolooplinks.com/blog/2020-district-heating-monitoring/</loc>
     <lastmod>2020-10-24T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tolooplinks.com/blog/</loc>
-    <lastmod>2020-10-24T11:22:16+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="http://tolooplinks.com/bg/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://tolooplinks.com/blog/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://tolooplinks.com/</loc>
+    <loc>https://tolooplinks.com/blog/</loc>
     <lastmod>2020-10-24T11:22:16+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://tolooplinks.com/bg/"
+                href="https://tolooplinks.com/bg/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tolooplinks.com/"
+                href="https://tolooplinks.com/blog/"
                 />
   </url>
   
   <url>
-    <loc>http://tolooplinks.com/blog/2020-bms-automation/</loc>
+    <loc>https://tolooplinks.com/</loc>
+    <lastmod>2020-10-24T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://tolooplinks.com/bg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tolooplinks.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tolooplinks.com/blog/2020-bms-automation/</loc>
     <lastmod>2020-10-23T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tolooplinks.com/blog/2020-fish-farm-automation/</loc>
+    <loc>https://tolooplinks.com/blog/2020-fish-farm-automation/</loc>
     <lastmod>2020-10-22T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tolooplinks.com/blog/2020-healthcare-iot/</loc>
+    <loc>https://tolooplinks.com/blog/2020-healthcare-iot/</loc>
     <lastmod>2020-10-21T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://tolooplinks.com/categories/</loc>
+    <loc>https://tolooplinks.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://tolooplinks.com/bg/categories/"
+                href="https://tolooplinks.com/bg/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tolooplinks.com/categories/"
+                href="https://tolooplinks.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://tolooplinks.com/contact/</loc>
+    <loc>https://tolooplinks.com/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://tolooplinks.com/bg/contact/"
+                href="https://tolooplinks.com/bg/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tolooplinks.com/contact/"
+                href="https://tolooplinks.com/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://tolooplinks.com/products/</loc>
+    <loc>https://tolooplinks.com/products/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://tolooplinks.com/bg/products/"
+                href="https://tolooplinks.com/bg/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tolooplinks.com/products/"
+                href="https://tolooplinks.com/products/"
                 />
   </url>
   
   <url>
-    <loc>http://tolooplinks.com/tags/</loc>
+    <loc>https://tolooplinks.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://tolooplinks.com/bg/tags/"
+                href="https://tolooplinks.com/bg/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tolooplinks.com/tags/"
+                href="https://tolooplinks.com/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://tolooplinks.com/privacy-policy/</loc>
+    <loc>https://tolooplinks.com/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://tolooplinks.com/bg/privacy-policy/"
+                href="https://tolooplinks.com/bg/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tolooplinks.com/privacy-policy/"
+                href="https://tolooplinks.com/privacy-policy/"
                 />
   </url>
   
   <url>
-    <loc>http://tolooplinks.com/terms-conditions/</loc>
+    <loc>https://tolooplinks.com/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://tolooplinks.com/bg/terms-conditions/"
+                href="https://tolooplinks.com/bg/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://tolooplinks.com/terms-conditions/"
+                href="https://tolooplinks.com/terms-conditions/"
                 />
   </url>
   
