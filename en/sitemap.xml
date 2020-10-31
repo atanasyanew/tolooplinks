@@ -5,6 +5,16 @@
   <url>
     <loc>https://tolooplinks.com/blog/2020-district-heating-monitoring/</loc>
     <lastmod>2020-10-24T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://tolooplinks.com/bg/blog/2020-district-heating-monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tolooplinks.com/blog/2020-district-heating-monitoring/"
+                />
   </url>
   
   <url>
@@ -40,16 +50,46 @@
   <url>
     <loc>https://tolooplinks.com/blog/2020-bms-automation/</loc>
     <lastmod>2020-10-23T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://tolooplinks.com/bg/blog/2020-bms-automation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tolooplinks.com/blog/2020-bms-automation/"
+                />
   </url>
   
   <url>
     <loc>https://tolooplinks.com/blog/2020-fish-farm-automation/</loc>
     <lastmod>2020-10-22T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://tolooplinks.com/bg/blog/2020-fish-farm-automation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tolooplinks.com/blog/2020-fish-farm-automation/"
+                />
   </url>
   
   <url>
     <loc>https://tolooplinks.com/blog/2020-healthcare-iot/</loc>
     <lastmod>2020-10-21T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://tolooplinks.com/bg/blog/2020-healthcare-iot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tolooplinks.com/blog/2020-healthcare-iot/"
+                />
   </url>
   
   <url>

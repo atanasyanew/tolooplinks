@@ -7,9 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>bg-bg</language>
     <copyright>Copyright 2020 © ToLoopLinks | All right reserved.</copyright>
+    <lastBuildDate>Sat, 24 Oct 2020 11:22:16 +0600</lastBuildDate><atom:link href="https://tolooplinks.com/bg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Мониторинг на топлофикационни централи</title>
+      <link>https://tolooplinks.com/bg/blog/2020-district-heating-monitoring/</link>
+      <pubDate>Sat, 24 Oct 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://tolooplinks.com/bg/blog/2020-district-heating-monitoring/</guid>
+      <description>Топлофикационните централи предоставят своите услуги в цели градове, те не могат да си позволят компромиси със стабилността. Мониторингът помага да се вземат правилни решения навреме.</description>
+    </item>
     
-	<atom:link href="https://tolooplinks.com/bg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Защо системите за мониторинг на батерий са важни</title>
+      <link>https://tolooplinks.com/bg/blog/2020-bms-automation/</link>
+      <pubDate>Fri, 23 Oct 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://tolooplinks.com/bg/blog/2020-bms-automation/</guid>
+      <description>Батериите са неразделна част от много индустрии, осигурявайки по-голяма надеждност и стабилност, правилното им използване е от съществено значение</description>
+    </item>
     
+    <item>
+      <title>Как се изгражда устойчива екосистема в аквакултурата</title>
+      <link>https://tolooplinks.com/bg/blog/2020-fish-farm-automation/</link>
+      <pubDate>Thu, 22 Oct 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://tolooplinks.com/bg/blog/2020-fish-farm-automation/</guid>
+      <description>Рибната ферма се състои от около 10 големи резервоара за вода, където рибата расте, с допълнителни няколко по-малки за развъждане на новото поколение. Необходими са много и важни показатели, за да има устойчива екосистема, като рН, температури, кислород, нива на водата и др.</description>
+    </item>
+    
+    <item>
+      <title>Следващо поколение IoT устройства в здравеопазване</title>
+      <link>https://tolooplinks.com/bg/blog/2020-healthcare-iot/</link>
+      <pubDate>Wed, 21 Oct 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://tolooplinks.com/bg/blog/2020-healthcare-iot/</guid>
+      <description>Интелигентно устройство свързващо облачни услуги с измервания от медицински апарати, позволяващо наблюдението на пациенти в реално време</description>
+    </item>
     
   </channel>
 </rss>

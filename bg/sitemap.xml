@@ -3,6 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tolooplinks.com/bg/</loc>
+    <lastmod>2020-10-24T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tolooplinks.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://tolooplinks.com/bg/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tolooplinks.com/bg/blog/2020-district-heating-monitoring/</loc>
+    <lastmod>2020-10-24T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tolooplinks.com/blog/2020-district-heating-monitoring/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://tolooplinks.com/bg/blog/2020-district-heating-monitoring/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tolooplinks.com/bg/blog/</loc>
+    <lastmod>2020-10-24T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tolooplinks.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://tolooplinks.com/bg/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tolooplinks.com/bg/blog/2020-bms-automation/</loc>
+    <lastmod>2020-10-23T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tolooplinks.com/blog/2020-bms-automation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://tolooplinks.com/bg/blog/2020-bms-automation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tolooplinks.com/bg/blog/2020-fish-farm-automation/</loc>
+    <lastmod>2020-10-22T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tolooplinks.com/blog/2020-fish-farm-automation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://tolooplinks.com/bg/blog/2020-fish-farm-automation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tolooplinks.com/bg/blog/2020-healthcare-iot/</loc>
+    <lastmod>2020-10-21T11:22:16+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tolooplinks.com/blog/2020-healthcare-iot/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://tolooplinks.com/bg/blog/2020-healthcare-iot/"
+                />
+  </url>
+  
+  <url>
     <loc>https://tolooplinks.com/bg/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -17,20 +107,6 @@
   </url>
   
   <url>
-    <loc>https://tolooplinks.com/bg/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tolooplinks.com/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://tolooplinks.com/bg/contact/"
-                />
-  </url>
-  
-  <url>
     <loc>https://tolooplinks.com/bg/products/</loc>
     <xhtml:link
                 rel="alternate"
@@ -41,20 +117,6 @@
                 rel="alternate"
                 hreflang="bg"
                 href="https://tolooplinks.com/bg/products/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://tolooplinks.com/bg/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://tolooplinks.com/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="bg"
-                href="https://tolooplinks.com/bg/blog/"
                 />
   </url>
   
@@ -101,16 +163,16 @@
   </url>
   
   <url>
-    <loc>https://tolooplinks.com/bg/</loc>
+    <loc>https://tolooplinks.com/bg/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://tolooplinks.com/"
+                href="https://tolooplinks.com/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="https://tolooplinks.com/bg/"
+                href="https://tolooplinks.com/bg/contact/"
                 />
   </url>
   
