@@ -14,7 +14,7 @@
       <pubDate>Sat, 24 Oct 2020 11:22:16 +0600</pubDate>
       
       <guid>https://tolooplinks.com/blog/2020-district-heating-monitoring/</guid>
-      <description>District heating plants provide their service across whole cities, they can not afford robustness compromises, monitoring help getting right decisions on time</description>
+      <description>District heating plant monitoring</description>
     </item>
     
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Fri, 23 Oct 2020 11:22:16 +0600</pubDate>
       
       <guid>https://tolooplinks.com/blog/2020-bms-automation/</guid>
-      <description>The batteries are integral part for many industries, providing more reliability and robustness, their proper exploitation is a significant importance</description>
+      <description>BMS</description>
     </item>
     
     <item>
@@ -32,7 +32,7 @@
       <pubDate>Thu, 22 Oct 2020 11:22:16 +0600</pubDate>
       
       <guid>https://tolooplinks.com/blog/2020-fish-farm-automation/</guid>
-      <description>The fish farm consist of about 10 large water tanks where the fish grows, with additional few smaller for breeding the new generation. Many and important metrics are required in order to have sustainable ecosystem, such as pH, temperatures, oxygen, water levels, etc..</description>
+      <description>Aquaculture, fish farm</description>
     </item>
     
     <item>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 21 Oct 2020 11:22:16 +0600</pubDate>
       
       <guid>https://tolooplinks.com/blog/2020-healthcare-iot/</guid>
-      <description>A gateway device between cloud and medical apparatuses, connecting doctors and patient measurements in real time</description>
+      <description>Medical device collection metrics from different apparatuses</description>
     </item>
     
   </channel>
